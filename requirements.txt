@@ -20,7 +20,7 @@ pyflakes==2.0.0
 python-jsonrpc-server==0.0.1
 python-language-server==0.21.0
 pytz==2018.5
-radon==2.2.0
+radon==2.3.1
 six==1.11.0
 snowballstemmer==1.2.1
 toml==0.9.4
